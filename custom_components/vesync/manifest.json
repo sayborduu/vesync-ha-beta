@@ -1,13 +1,15 @@
 {
   "domain": "vesync",
   "name": "VeSync",
+  "version": "2026.1.0.2",
   "codeowners": [
     "@markperdue",
     "@webdjoe",
     "@thegardenmonkey",
     "@cdnninja",
     "@iprak",
-    "@sapuseven"
+    "@sapuseven",
+    "@sayborduu"
   ],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/vesync",
